@@ -1,0 +1,93 @@
+body{
+    padding: 0px;
+    margin: 0px;
+
+}
+.navbar-background-color{
+background-color: #1781CD !important;
+
+}
+.font1{
+
+    font-family: 'Philosopher', sans-serif;
+}
+nav div ul li a{
+
+    color:  white !important;
+    font-size: 18px;
+}
+#firstArticle{
+    background-image: url("https://i.ibb.co/tKwqyBX/background-blur-clean-531880.jpg");
+    height: 450px;
+    background-repeat: round;
+
+}
+
+#secondArticle{
+    background-color: white;
+    width: 75%;
+    margin-top: -300px;
+    margin-bottom: 50px;
+    padding: 70px 70px 50px 70px;
+     box-shadow:
+    0 0 0 3px hsl(0, 0%, 80%),
+    0 0 0 5px hsl(0, 0%, 90%);
+}
+.editedName{
+    font-weight: bolder;
+    font-size: 30px;
+}
+#editedName2{
+    font-weight: bolder;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.font2{
+    font-family: 'Caveat', cursive;
+
+}
+.container2{
+    margin :80px 10px 30px 0px ;
+}
+
+.mfont{
+    font-size: 17px;
+    font-weight: 500;
+}
+
+#contact-bar{
+    background-color: #1781CD;
+    height: 80px;
+text-align: center;
+
+}#contact-bar a i{
+  padding: 20px 30px 0px 0px;
+
+}
+.mid{
+    text-align: center;
+}
+.miniCadre{
+  text-align: center;
+}
+.specialCadre{
+    margin: 50px 10px 40px 30px;
+    
+}
+.btn_mid{
+margin-left: 650px;    
+}
+.bordureDroite{
+    border-right: 4px solid #1781CD;
+}
+.bordureGauche{
+    border-left: 4px solid #1781CD;
+}
+.cadreBordure{
+    border-top: 6px #1781CD solid;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.date{
+    color:#1781CD;
+}
